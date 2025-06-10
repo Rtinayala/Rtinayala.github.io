@@ -170,3 +170,6 @@ Underscores
 <a href="https://www.youtube.com/watch?v=RdZqWiYCQsg
 " target="_blank"><img src="https://cplmakerlab.github.io/uploads/how-to-make-a-website-with-github-pages/website-example.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+# Templates
+[Select a theme from any of these and update the _config.yml file "remote_theme" line with the applicable theme's code](https://pages.github.com/themes/)
