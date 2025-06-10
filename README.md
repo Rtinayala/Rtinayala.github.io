@@ -1,7 +1,8 @@
 [GitHub's page on Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 This is how to make an achor  
-[Go to Headers](#headers) | [Go to Lists](#lists)  | [Go to Emphasis](#emphasis) | [Go to Lists](#lists) | [Go to Links](#links)  | [Go to Images](#images) | [Go to Code Blocks](#code-blocks)  | [Go to Footnotes](#footnotes) | [Go to Tables](#tables)  | [Go to Blockquotes](#blockquotes) | [Go to Horizontal Rule](#horizontal-rule)  | [Go to YouTube Videos](#youtube-videos) 
+[Go to Headers](#headers) | [Go to Lists](#lists)  | [Go to Emphasis](#emphasis) | [Go to Lists](#lists) | [Go to Links](#links)  | [Go to Images](#images) | [Go to Code Blocks](#code-blocks)  | [Go to Footnotes](#footnotes) | [Go to Tables](#tables)  | [Go to Blockquotes](#blockquotes) | [Go to Horizontal Rule](#horizontal-rule)  | [Go to YouTube Videos](#youtube-videos) | [Go to Themes](#themes) 
+
 
 This is how you can aligne text (Headers).
 <h1 align="center" id="headers">   HEADERS:  </h1>
@@ -167,9 +168,12 @@ ___
 Underscores
 
 # YouTube Videos
+
+Here is a video also on how to make repositories of different extension (have multiple at once).
+
 <a href="https://www.youtube.com/watch?v=RdZqWiYCQsg
 " target="_blank"><img src="https://cplmakerlab.github.io/uploads/how-to-make-a-website-with-github-pages/website-example.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-# Templates
+# Themes
 [Select a theme from any of these and update the _config.yml file "remote_theme" line with the applicable theme's code](https://pages.github.com/themes/)
