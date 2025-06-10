@@ -4,9 +4,9 @@
 3. Mockingbird
 4. Monk Parakeet
 
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+| Picture                                                        | Item              | In Stock | Price |
+| :----------------                                              | :---------------- | :------: | ----: |
+| ![yellow crowned night](yellow crowned night heron-1.jpg)      | Python Hat        |   True   | 23.99 |
+| SQL Hat                                                        | SQL Hat           |   True   | 23.99 |
+| Codecademy Tee                                                 | Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie                                              | Codecademy Hoodie |  False   | 42.99 |
